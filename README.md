@@ -1,5 +1,5 @@
 # ITU-CS-464-ASM01-bscs25071
-# [ HAREEM NADEEM] [bscs25071]
+#  [HAREEM NADEEM] [bscs25071]
 
 ## Game 1: Subway Surfers
 **Store link:** https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf
@@ -7,9 +7,9 @@
 **I played:** 35 minutes, reached high score of 28,500
 
 <p>
-<img src="Docs/game1/ss1.jpg" width="240">
-<img src="Docs/game1/ss2.jpg" width="240">
-<img src="Docs/game1/ss3.jpg" width="240">
+<img src="Docs/game1/ss1.jpeg" width="240">
+<img src="Docs/game1/ss2.jpeg" width="240">
+<img src="Docs/game1/ss3.jpeg" width="240">
 </p>
 
 1. [M1, M2] Player uses touch swipes to move across lanes and jump over track barriers.
@@ -38,9 +38,9 @@ Secondary: Explorer (Interacting x World), because players collect keys to unloc
 **I played:** 30 minutes, reached score of 3,200 in classic mode
 
 <p>
-<img src="Docs/game2/ss1.jpg" width="240">
-<img src="Docs/game2/ss2.jpg" width="240">
-<img src="Docs/game2/ss3.jpg" width="240">
+<img src="Docs/game2/ss1.jpeg" width="240">
+<img src="Docs/game2/ss2.jpeg" width="240">
+<img src="Docs/game2/ss3.jpeg" width="240">
 </p>
 
 1. [M1, M2] Players drag three offered block shapes from bottom tray onto the 8x8 grid.
@@ -67,9 +67,8 @@ Secondary: Explorer (Interacting x World), because discovering multi-line combo 
 
 | Level | Screenshot | Its idea | Wayfinding tool |
 |---|---|---|---|
-| Level01 | <img src="Docs/level/level01.jpg" width="320"> | Linear introduction to movement and basic gap jumping | Leading Lines |
-| Level02 | <img src="Docs/level/level02.jpg" width="320"> | Vertical elevation climbing via stepping blocks | Pinch and Release |
-| Level03 | <img src="Docs/level/level03.jpg" width="320"> | Precision jump balance across floating island platforms | Light and Contrast |
-| Level04 | <img src="Docs/level/level04.jpg" width="320"> | Zig-Zag navigation through dynamic hazard blocks | Framing |
-| Level05 | <img src="Docs/level/level05.jpg" width="320"> | Grand 3-Tier Cake Castle spiral climb climax level | Landmark |
-| Level05 | <img src="Docs/levels/level05.jpg" width="320"> | Grand 3-Tier Cake Castle spiral climb climax level | Landmark |
+| Level01 | <img src="Docs/level/level01.JPG" width="320"> | Linear introduction to movement and basic gap jumping | Leading Lines |
+| Level02 | <img src="Docs/level/level02.JPG" width="320"> | Vertical elevation climbing via stepping blocks | Pinch and Release |
+| Level03 | <img src="Docs/level/level03.JPG" width="320"> | Precision jump balance across floating island platforms | Light and Contrast |
+| Level04 | <img src="Docs/level/level04.JPG" width="320"> | Zig-Zag navigation through dynamic hazard blocks | Framing |
+| Level05 | <img src="Docs/level/level05.JPG" width="320"> | Grand 3-Tier Cake Castle spiral climb climax level | Landmark |
