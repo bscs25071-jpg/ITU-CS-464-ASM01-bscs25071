@@ -67,8 +67,9 @@ Secondary: Explorer (Interacting x World), because discovering multi-line combo 
 
 | Level | Screenshot | Its idea | Wayfinding tool |
 |---|---|---|---|
-| Level01 | <img src="Docs/levels/level01.jpg" width="320"> | Linear introduction to movement and basic gap jumping | Leading Lines |
-| Level02 | <img src="Docs/levels/level02.jpg" width="320"> | Vertical elevation climbing via stepping blocks | Pinch and Release |
-| Level03 | <img src="Docs/levels/level03.jpg" width="320"> | Precision jump balance across floating island platforms | Light and Contrast |
-| Level04 | <img src="Docs/levels/level04.jpg" width="320"> | Zig-Zag navigation through dynamic hazard blocks | Framing |
+| Level01 | <img src="Docs/level/level01.jpg" width="320"> | Linear introduction to movement and basic gap jumping | Leading Lines |
+| Level02 | <img src="Docs/level/level02.jpg" width="320"> | Vertical elevation climbing via stepping blocks | Pinch and Release |
+| Level03 | <img src="Docs/level/level03.jpg" width="320"> | Precision jump balance across floating island platforms | Light and Contrast |
+| Level04 | <img src="Docs/level/level04.jpg" width="320"> | Zig-Zag navigation through dynamic hazard blocks | Framing |
+| Level05 | <img src="Docs/level/level05.jpg" width="320"> | Grand 3-Tier Cake Castle spiral climb climax level | Landmark |
 | Level05 | <img src="Docs/levels/level05.jpg" width="320"> | Grand 3-Tier Cake Castle spiral climb climax level | Landmark |
